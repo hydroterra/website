@@ -1,0 +1,16 @@
+{{ partial "header.html" . }}
+<body>
+<div class="whole">
+<header>
+{{ partial "bannerimage.html" . }}
+
+{{ partial "navbar.html" . }}
+</header>
+{{ .Content }}
+{{ partial "contactform.html" . }}
+{{ partial "googlemap.html" . }}
+{{ partial "footbanner.html" . }}
+</div>
+
+{{ partial "footer.html" . }}
+
