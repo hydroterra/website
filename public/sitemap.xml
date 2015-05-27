@@ -7,7 +7,7 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
   </url>
   
   <url>
@@ -15,7 +15,7 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
   </url>
   
   <url>
@@ -23,7 +23,11 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/contact/devis/</loc>
   </url>
   
   <url>
@@ -31,19 +35,15 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
-  </url>
-  
-  <url>
     <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/</loc>
+    <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/contact/devis/</loc>
+    <loc>http://hydroterra.github.io/website/phytoepuration/</loc>
   </url>
   
   <url>
@@ -52,6 +52,10 @@
   
   <url>
     <loc>http://hydroterra.github.io/website/toilettes/principefonctionnement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/remerciement/</loc>
   </url>
   
   <url>
