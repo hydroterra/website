@@ -3,58 +3,47 @@
   
   <url>
     <loc>http://hydroterra.github.io/website/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/contact/devis/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/assainissement/reglementation/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/liens/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/assainissement/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/remerciement/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/contact/devis/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/assainissement/reglementation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/liens/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/assainissement/</loc>
   </url>
   
   <url>
     <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/remerciement/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/phytoepuration/</loc>
   </url>
   
 </urlset>

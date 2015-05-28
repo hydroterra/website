@@ -1,40 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Phytoepurations on HydroTerra </title>
-      <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://hydroterra.github.io/website/phytoepuration/index.xml/</link>
+    <title>Phytoepurations on HydroTerra</title>
+    <link>http://hydroterra.github.io/website/phytoepuration/</link>
+    <description>Recent content in Phytoepurations on HydroTerra</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    
-    
-    <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
-    
-    <item>
-      <title>Réglementation</title>
-      <link>http://hydroterra.github.io/website/phytoepuration/reglementation/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://hydroterra.github.io/website/phytoepuration/reglementation/</guid>
-      <description>&lt;p&gt;&lt;br /&gt;
- &lt;br /&gt;
-   &lt;div class=&#34;title-01 uppercase&#34;&gt;
-    &lt;a&gt;Réglementation&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;br /&gt;
-&lt;div class=&#34;part900&#34; &gt;
-Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) ne font pas partis des dispositifs mentionnés dans l&amp;rsquo;&lt;a href=&#34;/doc/arrete_prescriptions_techniques_anc_7_septembre_2009_cle781f53.pdf&#34;&gt;arrêté du 7 septembre 2009&lt;/a&gt; modifié par &lt;a href=&#34;/doc/joe_20120425_0003.pdf&#34;&gt;arrêté du 7 mars 2012&lt;/a&gt;. Ces installations sont soumises à évaluation de leurs performances épuratoires sur plate-forme d&amp;rsquo;essai afin d&amp;rsquo;obtenir leur agrément. Actuellement certains de ces dispositifs de filtres plantés ont reçu un agrément, il s&amp;rsquo;agit des filières suivantes:&lt;br /&gt;&lt;br /&gt;
-&lt;ul&gt;
-&lt;li&gt;Jardin d&amp;rsquo;assainissement FV + FH (5EH): AQUATIRIS: Avis relatif à l&amp;rsquo;&lt;a href=&#34;/doc/joe_20111220_0153.pdf&#34;&gt;agrément n°2011-022&lt;/a&gt; et guide d&amp;rsquo;utilisation (format pdf - 15,6 Mo - 02/03/2012)&lt;/li&gt;
-&lt;li&gt;gamme AUTOEPURE modèles 3000 (5EH), 4000 (8EH), 5000 (10EH), 7000 (15EH), 9000 (20EH), EPURNATURE: Avis relatif aux &lt;a href=&#34;/doc/joe_20120704_0168.pdf&#34;&gt;agréments n°2011-004-2011-004bis&lt;/a&gt; et 2012-013 et guide d&amp;rsquo;utilisation (format pdf - 2,5 Mo - 04/07/2012)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br /&gt;Les autres dispositifs d&amp;rsquo;assainissement par filtres plantés existant, dont ceux traitant uniquement les eaux ménagères, ne sont pas à l&amp;rsquo;heure actuelle agréés. Ces filières peuvent être mises en place à titre expérimental et sont alors soumises à la signature d&amp;rsquo;une convention entre le propriétaire, le SPANC et la commune. Cette convention a une durée de 5 ans renouvelable. &lt;a href=&#34;/contact/devis&#34;&gt;[nous contacter pour plus d&amp;rsquo;informations]&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
+    <atom:link href="http://hydroterra.github.io/website/phytoepuration/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Fonctionnement</title>
       <link>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</guid>
       <description>&lt;p&gt;&lt;br /&gt;
@@ -44,33 +21,55 @@ Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) 
   &lt;/div&gt;
 &lt;div class=&#34;part900&#34; &gt;
 &lt;h2&gt;Description de la filière d&amp;rsquo;assainissement par phytoépuration&lt;/h2&gt;
-&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; src=&#34;/img/v1_filtres___roseaux__3_.jpg&#34; alt=&#34;&#34; width=&#34;133&#34; height=&#34;178&#34; /&gt;&lt;strong&gt;L&amp;rsquo;épuration, grâce aux filtres plantés de macrophytes, se réalise selon le principe de l&amp;rsquo;épuration biologique aérobie (filtres à écoulement vertical) et aéro-anaérobie (filtres à écoulement horizontal) en milieux granulaires fins à grossiers.&lt;/strong&gt;
+&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; src=&#34;http://hydroterra.github.io/website/img/v1_filtres___roseaux__3_.jpg&#34; alt=&#34;&#34; width=&#34;133&#34; height=&#34;178&#34; /&gt;&lt;strong&gt;L&amp;rsquo;épuration, grâce aux filtres plantés de macrophytes, se réalise selon le principe de l&amp;rsquo;épuration biologique aérobie (filtres à écoulement vertical) et aéro-anaérobie (filtres à écoulement horizontal) en milieux granulaires fins à grossiers.&lt;/strong&gt;
 &lt;p&gt;Les systèmes que nous proposons sont destinés exclusivement au traitement des eaux ménagères seules ou associées aux urines (issues de toilette sèche à séparation). Dans cette installation, il n&amp;rsquo;y a pas d&amp;rsquo;eaux vannes, les locaux sont obligatoirement équipés de toilettes sèches (à séparation ou non).&lt;/p&gt;
 &lt;p&gt;Les eaux ménagères passent dans un système de prétraitement constitué d&amp;rsquo;un filtre à paille, elles rejoignent ensuite une chasse à auget, puis un système de répartition permettant l&amp;rsquo;alimentation en alternance du filtre vertical (constitué de deux lits en parallèle), les effluents rejoignent ensuite un filtre horizontal, avant dispersion par tranchée dans le sol, ou rejet au milieu hydraulique superficiel (soumis à autorisation).&lt;/p&gt;&lt;/p&gt;
 
 &lt;h2&gt;Filtre planté à écoulement vertical&lt;/h2&gt;
 
-&lt;p&gt;&lt;td&gt;&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;schéma filtre planté à écoulement vertical&#34; src=&#34;/img/fv_internet.jpg&#34; alt=&#34;&#34; width=&#34;283&#34; height=&#34;138&#34; /&gt;&lt;strong&gt;Les filtres plantés de roseaux à écoulement vertical sont constitués de deux filtres en parallèle fonctionnant en alternance.&lt;/strong&gt;
+&lt;p&gt;&lt;td&gt;&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;schéma filtre planté à écoulement vertical&#34; src=&#34;http://hydroterra.github.io/website/img/fv_internet.jpg&#34; alt=&#34;&#34; width=&#34;283&#34; height=&#34;138&#34; /&gt;&lt;strong&gt;Les filtres plantés de roseaux à écoulement vertical sont constitués de deux filtres en parallèle fonctionnant en alternance.&lt;/strong&gt;
 &lt;p&gt;L&amp;rsquo;alternance des filtres permet d&amp;rsquo;éviter le colmatage, en limitant le développement de la biomasse et en permettant la minéralisation pendant les phases de repos de la matière organique accumulée.&lt;/p&gt;
 &lt;p&gt;Les filtres sont alimentés en surface avec des eaux ménagères brutes ayant subi un prétraitement/dégrillage grossier dans un filtre à paille. L&amp;rsquo;effluent percole verticalement à travers le massif filtrant constitué de matériaux de granulométrie croissante, permettant la rétention physique des matières en suspension (MES). la dégradation biologique des matières dissoutes est réalisée par la biomasse bactérienne aérobie fixée sur le support non-saturé.&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;oxygénation est obtenue par une alimentation par bâchées et par la mise en contact avec l&amp;rsquo;atmosphère des drains de collecte.&lt;/p&gt;
 &lt;p&gt;Les macrophytes qui seront implantés sont des roseaux communs. Cette espèce robuste a un développement racinaire important.&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;h2&gt;Filtre planté à écoulement horizontal&lt;/h2&gt;
-&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;schéma vue en coupe - filtre planté à écoulement horizontal&#34; src=&#34;/img/fh_internet.jpg&#34; alt=&#34;&#34; width=&#34;415&#34; height=&#34;152&#34; /&gt;&lt;strong&gt;Un filtre planté à écoulement horizontal saturé en eau est installé en sortie de filtre vertical. La filtration s&amp;rsquo;effectue de manière horizontale à travers un horizon de sable.&lt;/strong&gt;
+&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;schéma vue en coupe - filtre planté à écoulement horizontal&#34; src=&#34;http://hydroterra.github.io/website/img/fh_internet.jpg&#34; alt=&#34;&#34; width=&#34;415&#34; height=&#34;152&#34; /&gt;&lt;strong&gt;Un filtre planté à écoulement horizontal saturé en eau est installé en sortie de filtre vertical. La filtration s&amp;rsquo;effectue de manière horizontale à travers un horizon de sable.&lt;/strong&gt;
 &lt;p&gt;Un système de siphon en sortie du filtre permet de régler la hauteur d&amp;rsquo;eau dans le bassin sous la surface, créant un milieu anoxique indispensable à la dénitrification.&lt;/p&gt;
 &lt;p&gt;Les matières dissoutes sont dégradées dans le massif filtrant par la biomasse bactérienne fixée sur le support.&lt;/p&gt;
 &lt;p&gt;L&amp;rsquo;aération résulte uniquement des apports provenant des racines des plantes et de la diffusion gazeuse dans la partie non saturée superficielle. Des mécanismes anaérobie et aéro-anaérobie interviennent au contact des racines des macrophytes (effet rhizosphère) et participent à la dégradation des matières carbonées et à la transformation des formes réduites de l&amp;rsquo;azote.&lt;/p&gt;
 &lt;p&gt;Les espèces végétales utilisées dans ce filtre sont des espèces de milieux aquatiques: iris, salicaires, menthe aquatique, massettes, joncs des chaisiers, rubaniers,&amp;hellip;&lt;/p&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;h2&gt;Rôle des macrophytes&lt;/h2&gt;
-&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; src=&#34;/img/v1_filtres___roseaux.jpg&#34; alt=&#34;&#34; width=&#34;169&#34; height=&#34;126&#34; /&gt;&lt;strong&gt;Le rôle des macrophytes est principalement mécanique, mais également esthétique et pédagogique, et ils contribuent indirectement à la dégradation des matières organiques de l&amp;rsquo;effluent brut. Ce sont les micro-organismes, se développant dans le support filtrant, qui assurent l&amp;rsquo;épuration biologique.&lt;/strong&gt;
+&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; src=&#34;http://hydroterra.github.io/website/img/v1_filtres___roseaux.jpg&#34; alt=&#34;&#34; width=&#34;169&#34; height=&#34;126&#34; /&gt;&lt;strong&gt;Le rôle des macrophytes est principalement mécanique, mais également esthétique et pédagogique, et ils contribuent indirectement à la dégradation des matières organiques de l&amp;rsquo;effluent brut. Ce sont les micro-organismes, se développant dans le support filtrant, qui assurent l&amp;rsquo;épuration biologique.&lt;/strong&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Rôle mécanique&lt;/span&gt;: Le développement dense des tiges de roseaux qui partent des noeuds des rhizomes jusqu&amp;rsquo;à la surface des filtres, crée des cheminements qui se prolongent jusqu&amp;rsquo;à l&amp;rsquo;ensemble du système racinaire, évitant le colmatage des filtres.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Oxygénation&lt;/span&gt;: des petites quantités d&amp;rsquo;oxygène sont rejetées à l&amp;rsquo;apex des radicelles des plantes.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Developpement micro-organismes&lt;/span&gt;:le développement racinaire accroît la surface de fixation pour le développement des micro-organismes.&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Métabolisme des plantes et traitement&lt;/span&gt;: le métabolisme des plantes (assimilation des nutriments) influence également le traitement mais reste relativement faible (exemple: assimilation de 5% de l&amp;rsquo;azote dans les filtres verticaux).&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;text-decoration: underline;&#34;&gt;Protection de la surface du filtre&lt;/span&gt;: La couverture foliaire préserve la surface des filtres de la dessication en été. Elle procure également un ombrage permettant aux bactéries de se développer, contribuant à la minéralisation de la matière organique. En période estivale, l&amp;rsquo;évapotranspiration conduit également à une forte diminution du volume sortant. En hiver, la couverture des roseaux permet de limiter l&amp;rsquo;impact des faibles températures (gel).&lt;/p&gt;
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Réglementation</title>
+      <link>http://hydroterra.github.io/website/phytoepuration/reglementation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hydroterra.github.io/website/phytoepuration/reglementation/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Réglementation&lt;/a&gt;
+  &lt;/div&gt;
+  &lt;br /&gt;
+&lt;div class=&#34;part900&#34; &gt;
+Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) ne font pas partis des dispositifs mentionnés dans l&amp;rsquo;&lt;a href=&#34;http://hydroterra.github.io/website/doc/arrete_prescriptions_techniques_anc_7_septembre_2009_cle781f53.pdf&#34;&gt;arrêté du 7 septembre 2009&lt;/a&gt; modifié par &lt;a href=&#34;http://hydroterra.github.io/website/doc/joe_20120425_0003.pdf&#34;&gt;arrêté du 7 mars 2012&lt;/a&gt;. Ces installations sont soumises à évaluation de leurs performances épuratoires sur plate-forme d&amp;rsquo;essai afin d&amp;rsquo;obtenir leur agrément. Actuellement certains de ces dispositifs de filtres plantés ont reçu un agrément, il s&amp;rsquo;agit des filières suivantes:&lt;br /&gt;&lt;br /&gt;
+&lt;ul&gt;
+&lt;li&gt;Jardin d&amp;rsquo;assainissement FV + FH (5EH): AQUATIRIS: Avis relatif à l&amp;rsquo;&lt;a href=&#34;http://hydroterra.github.io/website/doc/joe_20111220_0153.pdf&#34;&gt;agrément n°2011-022&lt;/a&gt; et guide d&amp;rsquo;utilisation (format pdf - 15,6 Mo - 02/03/2012)&lt;/li&gt;
+&lt;li&gt;gamme AUTOEPURE modèles 3000 (5EH), 4000 (8EH), 5000 (10EH), 7000 (15EH), 9000 (20EH), EPURNATURE: Avis relatif aux &lt;a href=&#34;http://hydroterra.github.io/website/doc/joe_20120704_0168.pdf&#34;&gt;agréments n°2011-004-2011-004bis&lt;/a&gt; et 2012-013 et guide d&amp;rsquo;utilisation (format pdf - 2,5 Mo - 04/07/2012)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br /&gt;Les autres dispositifs d&amp;rsquo;assainissement par filtres plantés existant, dont ceux traitant uniquement les eaux ménagères, ne sont pas à l&amp;rsquo;heure actuelle agréés. Ces filières peuvent être mises en place à titre expérimental et sont alors soumises à la signature d&amp;rsquo;une convention entre le propriétaire, le SPANC et la commune. Cette convention a une durée de 5 ans renouvelable. &lt;a href=&#34;http://hydroterra.github.io/website/contact/devis&#34;&gt;[nous contacter pour plus d&amp;rsquo;informations]&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
