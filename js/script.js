@@ -8,7 +8,7 @@
 
 
 $(window).scroll(function(){
-    if ($(window).scrollTop() >= $(window).width()*80/100/1333*340) {
+    if ($(window).scrollTop() >= $(window).width()*80/100/1333*271) {
        $('nav').addClass('fixed-header');
         $('.main-02 ').addClass('padding');
     }
@@ -22,7 +22,8 @@ $(window).scroll(function(){
 
 $(function(){
 var pop = function(){
-    $('body').css({'overflow':'hidden'});
+    if ($(window).width() >= 801){$('body').css({'overflow':'hidden'});}
+    
     $('#greyout').css({'display': 'block', opacity: 0.7, 'width':$(document).width(),'height':$(document).height()});
     $('#form').css({'display': 'block'});
     $('#open').css({'display': 'none'});
