@@ -22,8 +22,7 @@ $(window).scroll(function(){
 
 $(function(){
 var pop = function(){
-    if ($(window).width() >= 801){$('body').css({'overflow':'hidden'});}
-    
+    $('body').css({'overflow':'hidden'});
     $('#greyout').css({'display': 'block', opacity: 0.7, 'width':$(document).width(),'height':$(document).height()});
     $('#form').css({'display': 'block'});
     $('#open').css({'display': 'none'});

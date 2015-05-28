@@ -56,6 +56,20 @@
     </item>
     
     <item>
+      <title>Contact et Devis</title>
+      <link>http://hydroterra.github.io/website/contact/devis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hydroterra.github.io/website/contact/devis/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Contact et Devis&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Notre Prestation</title>
       <link>http://hydroterra.github.io/website/assainissement/prestation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -97,20 +111,6 @@
 &lt;/div&gt;
 
 &lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Contact et Devis</title>
-      <link>http://hydroterra.github.io/website/contact/devis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hydroterra.github.io/website/contact/devis/</guid>
-      <description>&lt;p&gt;&lt;br /&gt;
- &lt;br /&gt;
-   &lt;div class=&#34;title-01 uppercase&#34;&gt;
-    &lt;a&gt;Contact et Devis&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -290,20 +290,6 @@
     </item>
     
     <item>
-      <title>Remerciement</title>
-      <link>http://hydroterra.github.io/website/remerciement/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://hydroterra.github.io/website/remerciement/</guid>
-      <description>&lt;br /&gt;
- &lt;br /&gt;
-
-&lt;div class=&#34;part900&#34; &gt;
-&lt;p style=&#34;text-align: center;&#34;&gt;Nous vous répondrons dans les plus brefs délais.&lt;/p&gt;
-  &lt;/div&gt;</description>
-    </item>
-    
-    <item>
       <title>Réglementation</title>
       <link>http://hydroterra.github.io/website/phytoepuration/reglementation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -323,6 +309,20 @@ Les filières d&amp;rsquo;assainissement par filtres plantés (phytoépuration) 
 &lt;/ul&gt;
 &lt;br /&gt;Les autres dispositifs d&amp;rsquo;assainissement par filtres plantés existant, dont ceux traitant uniquement les eaux ménagères, ne sont pas à l&amp;rsquo;heure actuelle agréés. Ces filières peuvent être mises en place à titre expérimental et sont alors soumises à la signature d&amp;rsquo;une convention entre le propriétaire, le SPANC et la commune. Cette convention a une durée de 5 ans renouvelable. &lt;a href=&#34;http://hydroterra.github.io/website/contact/devis&#34;&gt;[nous contacter pour plus d&amp;rsquo;informations]&lt;/a&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Remerciement</title>
+      <link>http://hydroterra.github.io/website/remerciement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hydroterra.github.io/website/remerciement/</guid>
+      <description>&lt;br /&gt;
+ &lt;br /&gt;
+
+&lt;div class=&#34;part900&#34; &gt;
+&lt;p style=&#34;text-align: center;&#34;&gt;Nous vous répondrons dans les plus brefs délais.&lt;/p&gt;
+  &lt;/div&gt;</description>
     </item>
     
     <item>
