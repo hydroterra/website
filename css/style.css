@@ -16,6 +16,7 @@ min-width: 900px;
   margin: 0 auto ;
 
 }
+.cacher800{display:none;}
 input{width: 60%;}
 textarea{width: 100%;}
 .header-wrapper {
