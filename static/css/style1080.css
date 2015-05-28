@@ -1,6 +1,33 @@
 
- @media(max-width: 1280px) {
+ @media(max-width: 1080px) {
+  .whole{
+ 
+min-width: 700px;
 
+
+}
+.fixed-header {
+min-width: 700px;
+}
+.cacher{display:none;}
+
+    .part300{
+    
+  }
+  .part400{
+    
+  }
+
+  
+.100p1080{width:100%;
+    
+  }
+    .50p1080{width:50%;
+    
+  }
+  .33p1080{width:33%;
+    
+  }
   #menu-wrap { position: relative;}
 
 
