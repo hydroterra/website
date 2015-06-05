@@ -8,7 +8,7 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +18,7 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/reglementation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,12 +28,17 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/reglementation/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/remerciement/</loc>
+    <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,12 +48,12 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
+    <loc>http://hydroterra.github.io/website/remerciement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
+    <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
