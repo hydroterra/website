@@ -1,7 +1,7 @@
 baseurl = "http://hydroterra.github.io/website"
 languageCode = "en-us"
 title = "HydroTerra"
-canonifyurls = false
+canonifyurls = true
 
 [Taxonomies]
 	category = "categories"
