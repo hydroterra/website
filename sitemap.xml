@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://hydroterra.github.io/website/</loc>
+    <loc>http://hydroterra.fr/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/</loc>
+    <loc>http://hydroterra.fr/assainissement/prestation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/anc/</loc>
+    <loc>http://hydroterra.fr/contact/devis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/contact/devis/</loc>
+    <loc>http://hydroterra.fr/assainissement/reglementation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/reglementation/</loc>
+    <loc>http://hydroterra.fr/assainissement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/liens/</loc>
+    <loc>http://hydroterra.fr/assainissement/anc/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/reglementation/</loc>
+    <loc>http://hydroterra.fr/liens/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/assainissement/prestation/</loc>
+    <loc>http://hydroterra.fr/remerciement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/</loc>
+    <loc>http://hydroterra.fr/phytoepuration/reglementation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/remerciement/</loc>
+    <loc>http://hydroterra.fr/phytoepuration/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.github.io/website/phytoepuration/fonctionnement/</loc>
+    <loc>http://hydroterra.fr/phytoepuration/fonctionnement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
