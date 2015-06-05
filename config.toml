@@ -1,4 +1,4 @@
-baseurl = "http://hydroterra.github.io/website"
+baseurl = "http://hydroterra.fr"
 languageCode = "en-us"
 title = "HydroTerra"
 canonifyurls = true
