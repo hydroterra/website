@@ -10,51 +10,6 @@
     <updated>Tue, 01 Jan 2008 00:00:00 UTC</updated>
     
     <item>
-      <title>Notre Prestation</title>
-      <link>http://hydroterra.fr/assainissement/prestation/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
-      
-      <guid>http://hydroterra.fr/assainissement/prestation/</guid>
-      <description>&lt;p&gt;&lt;br /&gt;
- &lt;br /&gt;
-   &lt;div class=&#34;title-01 uppercase&#34;&gt;
-    &lt;a&gt;Notre Prestation&lt;/a&gt;
-  &lt;/div&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;
- &lt;br /&gt;
-&lt;div class=&#34;part900 &#34; &gt;
-&lt;h2&gt;Pourquoi faire réaliser une étude de faisabilité de l&amp;rsquo;assainissement ?&lt;/h2&gt;
- &lt;br /&gt;
-&lt;div class=&#34;scol part300 &#34;&gt;&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;tarière à main pour étude pédologique&#34; src=&#34;/img/tari_re_petit.jpg&#34; alt=&#34;&#34; width=&#34;280&#34; height=&#34;150&#34; /&gt;&lt;/div&gt;
-&lt;div class=&#34;scol part600 &#34;&gt;&lt;strong&gt;L&amp;rsquo;étude de faisabilité d&amp;rsquo;un assainissement individuel&amp;nbsp; permet notamment de déterminer le type de sol, sa capacité d&amp;rsquo;infiltration, sa profondeur, la présence d&amp;rsquo;une nappe d&amp;rsquo;eau souterraine, de puits servant à l&amp;rsquo;alimentation en eau, etc.&lt;/strong&gt;
-&lt;p&gt;Ainsi, l&amp;rsquo;absence de cette étude peut avoir des conséquences aussi bien sur la pérennité de l&amp;rsquo;installation (remontée d&amp;rsquo;eaux souterraines, stagnation d&amp;rsquo;eau usée en surface, etc.) que du point de vue environnemental et sanitaire.&lt;/p&gt;
-&lt;br /&gt;
-&lt;/div&gt;&lt;/p&gt;
-
-&lt;div class=&#34;scol part600 &#34;&gt;
-&lt;br /&gt;
-&lt;h2&gt;Les étapes de notre prestation :&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;préparation du terrain: état des lieux des contraintes environnementales et sanitaires s&#39;exerçant sur le site et à proximité, renseignements auprès du maître d&#39;ouvrage&lt;/li&gt;
-&lt;li&gt;étude de terrain (6h): deux sondages au tractopelle, deux à trois sondages à la tarière, deux tests de perméabilité, mesures topographiques, descriptif de l&#39;environnement proche, etc. &lt;/li&gt;
-&lt;li&gt;compte-rendu: définition et dimensionnement de la filière de traitement, démarches auprès des administrations et envoi du rapport au maître d&#39;ouvrage.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p style=&#34;text-align: left;&#34;&gt;A l&#39;issue de cette étude, un dispositif d&#39;assainissement, son emplacement, son dimensionnement est choisi en fonction des caractéristiques du terrain, de son environnement et des usages.&lt;/p&gt;
-&lt;p&gt;&lt;img class=&#34;tree bordure&#34; style=&#34;border: 1px solid black; float: left; margin: 15px;&#34; src=&#34;/img/rapport.jpg&#34; alt=&#34;&#34; width=&#34;96&#34; height=&#34;130&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img  class=&#34;bordure&#34; style=&#34;margin: 15px;&#34; src=&#34;/img/exe_rapport.jpg&#34; alt=&#34;&#34; width=&#34;100&#34; height=&#34;133&#34; /&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;scol part300 &#34;&gt;
-&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Sondage du sol au tractopelle&#34; src=&#34;/img/tracto.jpg&#34; alt=&#34;&#34; width=&#34;241&#34; height=&#34;179&#34; /&gt;
-&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Mesures topographiques&#34; src=&#34;/img/100_2516.jpg&#34; alt=&#34;&#34; width=&#34;154&#34; height=&#34;186&#34; /&gt;
-&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Test de perméabilité - méthode Porchet&#34; src=&#34;/img/100_2514.jpg&#34; alt=&#34;&#34; width=&#34;226&#34; height=&#34;169&#34; /&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Réglementation en vigueur</title>
       <link>http://hydroterra.fr/assainissement/reglementation/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
@@ -138,6 +93,51 @@
 &lt;p&gt;&lt;a href=&#34;/web_documents/site_interminist_riel_sur_l__assainissement_non_collectif.htm&#34;&gt;[&lt;/a&gt;&lt;a href=&#34;http://www.assainissement-non-collectif.developpement-durable.gouv.fr/dispositifs-de-traitement-agrees-a185.html&#34;&gt;LISTE DES DISPOSITIFS AGREES]&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Notre Prestation</title>
+      <link>http://hydroterra.fr/assainissement/prestation/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 UTC</pubDate>
+      
+      <guid>http://hydroterra.fr/assainissement/prestation/</guid>
+      <description>&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+   &lt;div class=&#34;title-01 uppercase&#34;&gt;
+    &lt;a&gt;Notre Prestation&lt;/a&gt;
+  &lt;/div&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+ &lt;br /&gt;
+&lt;div class=&#34;part900 &#34; &gt;
+&lt;h2&gt;Pourquoi faire réaliser une étude de faisabilité de l&amp;rsquo;assainissement ?&lt;/h2&gt;
+ &lt;br /&gt;
+&lt;div class=&#34;scol part300 &#34;&gt;&lt;img  class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;tarière à main pour étude pédologique&#34; src=&#34;/img/tari_re_petit.jpg&#34; alt=&#34;&#34; width=&#34;280&#34; height=&#34;150&#34; /&gt;&lt;/div&gt;
+&lt;div class=&#34;scol part600 &#34;&gt;&lt;strong&gt;L&amp;rsquo;étude de faisabilité d&amp;rsquo;un assainissement individuel&amp;nbsp; permet notamment de déterminer le type de sol, sa capacité d&amp;rsquo;infiltration, sa profondeur, la présence d&amp;rsquo;une nappe d&amp;rsquo;eau souterraine, de puits servant à l&amp;rsquo;alimentation en eau, etc.&lt;/strong&gt;
+&lt;p&gt;Ainsi, l&amp;rsquo;absence de cette étude peut avoir des conséquences aussi bien sur la pérennité de l&amp;rsquo;installation (remontée d&amp;rsquo;eaux souterraines, stagnation d&amp;rsquo;eau usée en surface, etc.) que du point de vue environnemental et sanitaire.&lt;/p&gt;
+&lt;br /&gt;
+&lt;/div&gt;&lt;/p&gt;
+
+&lt;div class=&#34;scol part600 &#34;&gt;
+&lt;br /&gt;
+&lt;h2&gt;Les étapes de notre prestation :&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;préparation du terrain: état des lieux des contraintes environnementales et sanitaires s&#39;exerçant sur le site et à proximité, renseignements auprès du maître d&#39;ouvrage&lt;/li&gt;
+&lt;li&gt;étude de terrain (6h): deux sondages au tractopelle, deux à trois sondages à la tarière, deux tests de perméabilité, mesures topographiques, descriptif de l&#39;environnement proche, etc. &lt;/li&gt;
+&lt;li&gt;compte-rendu: définition et dimensionnement de la filière de traitement, démarches auprès des administrations et envoi du rapport au maître d&#39;ouvrage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p style=&#34;text-align: left;&#34;&gt;A l&#39;issue de cette étude, un dispositif d&#39;assainissement, son emplacement, son dimensionnement est choisi en fonction des caractéristiques du terrain, de son environnement et des usages.&lt;/p&gt;
+&lt;p&gt;&lt;img class=&#34;tree bordure&#34; style=&#34;border: 1px solid black; float: left; margin: 15px;&#34; src=&#34;/img/rapport.jpg&#34; alt=&#34;&#34; width=&#34;96&#34; height=&#34;130&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img  class=&#34;bordure&#34; style=&#34;margin: 15px;&#34; src=&#34;/img/exe_rapport.jpg&#34; alt=&#34;&#34; width=&#34;100&#34; height=&#34;133&#34; /&gt;&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&#34;scol part300 &#34;&gt;
+&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Sondage du sol au tractopelle&#34; src=&#34;/img/tracto.jpg&#34; alt=&#34;&#34; width=&#34;241&#34; height=&#34;179&#34; /&gt;
+&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Mesures topographiques&#34; src=&#34;/img/100_2516.jpg&#34; alt=&#34;&#34; width=&#34;154&#34; height=&#34;186&#34; /&gt;
+&lt;img class=&#34;bordure&#34; style=&#34;float: left; margin: 10px;&#34; title=&#34;Test de perméabilité - méthode Porchet&#34; src=&#34;/img/100_2514.jpg&#34; alt=&#34;&#34; width=&#34;226&#34; height=&#34;169&#34; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;/div&gt;&lt;/p&gt;
 </description>
     </item>
     
