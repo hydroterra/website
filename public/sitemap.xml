@@ -8,22 +8,12 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.fr/assainissement/prestation/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://hydroterra.fr/contact/devis/</loc>
-    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://hydroterra.fr/assainissement/reglementation/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://hydroterra.fr/assainissement/</loc>
+    <loc>http://hydroterra.fr/contact/devis/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,7 +28,7 @@
   </url>
   
   <url>
-    <loc>http://hydroterra.fr/remerciement/</loc>
+    <loc>http://hydroterra.fr/assainissement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -48,7 +38,17 @@
   </url>
   
   <url>
+    <loc>http://hydroterra.fr/assainissement/prestation/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hydroterra.fr/phytoepuration/</loc>
+    <lastmod>2008-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hydroterra.fr/remerciement/</loc>
     <lastmod>2008-01-01T00:00:00+00:00</lastmod>
   </url>
   
